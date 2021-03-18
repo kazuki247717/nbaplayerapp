@@ -10,6 +10,7 @@ module NbaplayerApp
   class Application < Rails::Application
     # Initialize configuration defaults for originally generated Rails version.
     config.generators.template_engine = :slim
+    config.i18n.default_locale = :ja 
 
     # Configuration for the application, engines, and railties goes here.
     #

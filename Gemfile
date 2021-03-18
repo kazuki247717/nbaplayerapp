@@ -60,5 +60,5 @@ gem 'html2slim'
 
 # Devise
 gem 'devise'
-gem 'omniauth', '1.9.1'
-gem 'omniauth-twitter'
+gem 'devise-i18n'
+gem 'devise-i18n-views'
